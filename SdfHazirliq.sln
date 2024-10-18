@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdfHazirliq", "SdfHazirliq\SdfHazirliq.csproj", "{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D400BC-4D89-4896-AB18-6E12B595211D}
+	EndGlobalSection
+EndGlobal

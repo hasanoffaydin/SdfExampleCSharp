@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\returnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\returnhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\teacher.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\teacher.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\qeydiyyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\qeydiyyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\teacherform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\istifadeciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\istifadeciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|c:\\users\\lenovo\\documents\\windows form c#\\sdfhazirliq\\sdfhazirliq\\addjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F307C0-2F17-49A5-8FB9-F3E289A9EE3F}|SdfHazirliq\\SdfHazirliq.csproj|solutionrelative:sdfhazirliq\\addjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Teacher.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Teacher.cs",
+              "RelativeToolTip": "SdfHazirliq\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:58:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\TeacherForm.cs [Design]",
+              "RelativeToolTip": "SdfHazirliq\\TeacherForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:04:48.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\TeacherForm.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\TeacherForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\TeacherForm.cs",
+              "RelativeToolTip": "SdfHazirliq\\TeacherForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:14:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Form1.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Form1.cs",
+              "RelativeToolTip": "SdfHazirliq\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:07:52.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Form1.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Form1.cs [Design]",
+              "RelativeToolTip": "SdfHazirliq\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:56:40.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qeydiyyat.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Qeydiyyat.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Qeydiyyat.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Qeydiyyat.cs",
+              "RelativeToolTip": "SdfHazirliq\\Qeydiyyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:00:16.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teacher.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\teacher.json",
+              "RelativeDocumentMoniker": "SdfHazirliq\\teacher.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\teacher.json",
+              "RelativeToolTip": "SdfHazirliq\\teacher.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T15:21:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnHome.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\ReturnHome.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\ReturnHome.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\ReturnHome.cs*",
+              "RelativeToolTip": "SdfHazirliq\\ReturnHome.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:13:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\student.json",
+              "RelativeDocumentMoniker": "SdfHazirliq\\student.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\student.json",
+              "RelativeToolTip": "SdfHazirliq\\student.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T15:20:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\StudentForm.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\StudentForm.cs",
+              "RelativeToolTip": "SdfHazirliq\\StudentForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:11:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\StudentForm.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\StudentForm.cs [Design]",
+              "RelativeToolTip": "SdfHazirliq\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:08:25.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Istifadeciler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Istifadeciler.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Istifadeciler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Istifadeciler.cs",
+              "RelativeToolTip": "SdfHazirliq\\Istifadeciler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:57:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Student.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\Student.cs",
+              "RelativeToolTip": "SdfHazirliq\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:58:08.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddJson.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\AddJson.cs",
+              "RelativeDocumentMoniker": "SdfHazirliq\\AddJson.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Windows Form C#\\SdfHazirliq\\SdfHazirliq\\AddJson.cs",
+              "RelativeToolTip": "SdfHazirliq\\AddJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:24:14.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
